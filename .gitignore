@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# macintosh  ds_store
+.DS_store
+
+# exclude config file
+config.py 
