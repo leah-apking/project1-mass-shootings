@@ -1,4 +1,6 @@
 # Project 1
+![shutterstock_1979269220](https://user-images.githubusercontent.com/118202453/218768249-2747c41e-4658-462b-bc2a-e4af23f0b29d.jpg)
+
 ## Students
  - Leah Apking
  - Julie Eremeeva
