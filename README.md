@@ -21,6 +21,10 @@ We are taking a closer look at mass shootings in the United States over the last
 #### Census Data: 
    - https://www.census.gov/data/developers/data-sets.html
 
+#### Gun Policy:
+   - https://everytownresearch.org/ 
+   - https://giffords.org/lawcenter/gun-laws/
+
 
 ### Research questions
   1. Have the rates of mass shootings increased in the last 8 years?
