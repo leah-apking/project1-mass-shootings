@@ -14,6 +14,14 @@ We are taking a closer look at mass shootings in the United States over the last
 
 ## Data Sources
 
+#### Mass Shootings Data and Crime Data: 
+   - https://www.gunviolencearchive.org 
+   - https://www.theviolenceproject.org/mass-shooter-database/
+
+#### Census Data: 
+   - https://www.census.gov/data/developers/data-sets.html
+
+
 ### Research questions
   1. Have the rates of mass shootings increased in the last 8 years?
   2. Does local poverty rate/ lower median family income contribute to greater prevalence of mass shootings in the US?
